@@ -36,7 +36,7 @@ function montharr(m0, m1, m2, m3, m4, m5, m6, m7, m8, m9, m10, m11) {
     document.write(monthNames.substring(today.getMonth() * 3 + 3, (today.getMonth() + 1) * 3 + 3));
     document.write(". ");
     document.write(year);
-    document.write("<tr><th>Вск <th>Пон <th>Вт <th>Ср <th>Чт <th>Пт <th>Сб" );
+    document.write("<tr><th>Нд <th>Пн <th>Вт <th>Ср <th>Чт <th>Пт <th>Сб" );
     document.write("<tr>");
     column = 0;
     for (i = 0; i < startDay; i++) {
