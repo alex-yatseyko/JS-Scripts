@@ -1,8 +1,4 @@
-let srcText = `!DOCTYPE html;
-			Hi, my name  is Alex Yatseyko. 
-			I am a webdeveloper/webdesigner based in Kyiv.
-			I want to help you to create the website of your dream.
-			My favourite technolgies are ReactJS, Node.js, Redux, Vue.js, Angular`
+let srcText = `Test that should be typed goes there!`
 					i = 0;
 					result = srcText[i];
 				setInterval(() => {
